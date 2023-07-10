@@ -2,7 +2,7 @@
 - 👀 I’m interested in Acquiring Knowledge!!
 - 🌱 I’m a Web Developer too good at front end dev
 - 💞️ I’m looking to collaborate SOON!!!!!!!!
-- 📫 How to reach me DISCORD:peekaboo#9996
+- 📫 How to reach me DISCORD:peekaabooo
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pughalbot" alt="pughalbot" /></a> </p>
 
