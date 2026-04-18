@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PughalBot
+- 👋 Hi, I’m Pughalesh
 - 👀 I’m interested in Acquiring Knowledge!!
 - 🌱 I’m a Web Developer too good at front end dev
 - 💞️ I’m looking to collaborate SOON!!!!!!!!
